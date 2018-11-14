@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  favoritesViewController.swift
 //  lab4
 //
 //  Created by Brad Hodkinson on 10/16/18.
@@ -8,13 +8,14 @@
 
 import UIKit
 
-class ViewController: UIViewController {
-
+class FavoritesViewController: UIViewController {
+    
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+        // Do any additional setup after loading the view.
     }
-
-
+    
+   
+    
 }
 
