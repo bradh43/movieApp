@@ -8,8 +8,8 @@ Fourth assignment for CSE 438. This is a movie search app that focuses on the de
 </p>
 
 <p>
-<img align="left" src="movieSearchScreenshot.png" height="300">
-<img align="center" src="detailedMovieScreenshot.png" height="300">
-<img align="center" src="favoritesScreenshot.png" height="300">
+<img align="left" src="movieSearchScreenshot.png" height="400">
+<img align="center" src="detailedMovieScreenshot.png" height="400">
+<img align="center" src="favoritesScreenshot.png" height="400">
 </p>
 <br>
